@@ -1,0 +1,8 @@
+D:\Algoritimi\Preg\bin\Debug\Preg.exe.config
+D:\Algoritimi\Preg\bin\Debug\Preg.exe
+D:\Algoritimi\Preg\bin\Debug\Preg.pdb
+D:\Algoritimi\Preg\obj\Debug\Preg.csproj.AssemblyReference.cache
+D:\Algoritimi\Preg\obj\Debug\Preg.csproj.SuggestedBindingRedirects.cache
+D:\Algoritimi\Preg\obj\Debug\Preg.csproj.CoreCompileInputs.cache
+D:\Algoritimi\Preg\obj\Debug\Preg.exe
+D:\Algoritimi\Preg\obj\Debug\Preg.pdb

@@ -1,0 +1,8 @@
+D:\Algoritimi\PregLCS\bin\Debug\PregLCS.exe.config
+D:\Algoritimi\PregLCS\bin\Debug\PregLCS.exe
+D:\Algoritimi\PregLCS\bin\Debug\PregLCS.pdb
+D:\Algoritimi\PregLCS\obj\Debug\PregLCS.csproj.AssemblyReference.cache
+D:\Algoritimi\PregLCS\obj\Debug\PregLCS.csproj.SuggestedBindingRedirects.cache
+D:\Algoritimi\PregLCS\obj\Debug\PregLCS.csproj.CoreCompileInputs.cache
+D:\Algoritimi\PregLCS\obj\Debug\PregLCS.exe
+D:\Algoritimi\PregLCS\obj\Debug\PregLCS.pdb
